@@ -66,7 +66,7 @@ A state-of-the-art content moderation system that detects and flags harmful cont
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Real-Time-Toxicity-Detector.git
+git clone https://github.com/Aviral-Dwivedi-0/Real-Time-Toxicity-Detector.git
 cd Real-Time-Toxicity-Detector
 ```
 
@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any queries, please reach out to [your-email@example.com](mailto:your-email@example.com)
+For any queries, please reach out to [aviraldwivedi.ad1@gmail.com](mailto:aviraldwivedi.ad1@gmail.com)
